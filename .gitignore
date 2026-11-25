@@ -1,0 +1,10 @@
+gitignore contributed by GitHub
+
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+*.egg-info/
+.venv/
+venv/
